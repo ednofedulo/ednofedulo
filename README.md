@@ -7,7 +7,8 @@ I built a personal [website](http://www.fedulo.com.br) where you cand find more 
 
 ## ⚡ Technologies
 
-These are some of the technologies and tools that I work with:
+These are some of the technologies and tools that I work with: 
+
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Cocoapods](https://img.shields.io/badge/-Cocoapods-EE3322?style=flat-square&logo=cocoapods&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -19,6 +20,7 @@ These are some of the technologies and tools that I work with:
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ednofedulo)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **ednofedulo/ednofedulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
