@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Edno Fedulo, I'm a Software Developer actually working at PRODEB, a brazilian state-owned company that provide IT solutions to a variety of governamental agencies and enterprises. I've been working in tech since 2010 with all kind of tech stack.
+I'm Edno Fedulo and I'm a Software Developer.
 
 I built a personal [website](http://www.fedulo.com.br) where you cand find more information about me, like some blog posts i've made, my resumé and my other social networks.
 
